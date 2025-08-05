@@ -2,6 +2,7 @@
 # Converts STL file to VRML/WRL file.
 # Avoids re-creating points if points of a facet overlap on the model.
 # Object model is gray
+# Bradley Boccuzzi 2020-2025
 
 import argparse
 import os
