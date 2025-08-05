@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # Converts STL file to VRML/WRL file.
 # Avoids re-creating points if points of a facet overlap on the model.
+# Object model is gray
 
 import argparse
 import os
